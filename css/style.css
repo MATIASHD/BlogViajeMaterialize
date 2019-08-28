@@ -2,3 +2,15 @@
     margin: 0;
     padding: 0;
 }
+
+#margen-desnudo{
+    margin: 0;
+}
+
+.posicion-logo{
+    margin: -108px 0 0 0;
+}
+
+.tamano-icon{
+    font-size: 50px;
+}
