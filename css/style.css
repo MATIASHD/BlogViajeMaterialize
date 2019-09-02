@@ -6,15 +6,10 @@
 #margen-desnudo{
     margin: 0;
 }
-
-.posicion-logo{
-    margin: -108px 0 0 0;
+body{
+    background-image: url(/multimedia/paisaje-fondo.jpg);
 }
 
 .tamano-icon {
     font-size: 50px;
-}
-
-.largo-imagen{
-    height: 490px;
 }
